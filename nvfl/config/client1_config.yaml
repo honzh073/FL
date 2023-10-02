@@ -1,0 +1,7 @@
+# client1_config.yaml 
+
+client:
+  host: server_host_address  
+  port: 5000                
+  worker_id: 1              
+  task_config: /path/to/client1_task.yaml  

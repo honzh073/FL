@@ -1,2 +1,0 @@
-2023-10-11 18:06:23,498 - SimulatorRunner - ERROR - Simulator setup error: RuntimeError: ValueError: App hello-pt in deploy_map doesn't exist for job hello-pt
-2023-10-11 18:06:23,498 - MPM - INFO - MPM: Good Bye!

@@ -1,0 +1,1306 @@
+{
+    "train": [
+        {
+            "image_path": "/shared1/8bit_down224/patient_UNOKSBPWLQ_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YAWNVLJTJO_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_LMPCRBOSMQ_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JQRZYJFXHO_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HOPFPVLORH_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IHAOCDQWZO_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_MHIYVVYTSA_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SQOFUFJXWK_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_7.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IZOTVEXCTS_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ESJVTOEYGY_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NRYSKVDBCE_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HTBNEVTDWH_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HICWADUKYN_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ETMQZIBUJP_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_8.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDYQZFVMPB_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ARWLQPFUHY_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ESJVTOEYGY_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UMMDXRVRZZ_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_DOATWXZNHC_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GTXWPRXLHQ_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ESJVTOEYGY_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HICWADUKYN_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PSJSXBDWKK_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PKCAMHIHEK_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VSIPHGGRNB_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IZOTVEXCTS_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QCFIKCSVST_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SGYERTEXGO_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ALVQNWCXCN_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HACUSUQVAK_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ALVQNWCXCN_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VCYAFOQEQN_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UNOKSBPWLQ_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UMMDXRVRZZ_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_BEYVSZZZDY_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HOPFPVLORH_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_BEYVSZZZDY_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TZEUFZULSM_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ETMQZIBUJP_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QUHMVPNIKU_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YANFWWOIKT_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_MHIYVVYTSA_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZTOXMEIHOB_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDYQZFVMPB_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_7.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_7.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZORYFZEYYE_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_POJWQQHBHG_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ICQJXLXFUW_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QUHMVPNIKU_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITKBKMVHVO_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CYEGUMTKHA_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NMWJLZBZER_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YOASRWEXBB_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_KKHMHHVMQR_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SQOFUFJXWK_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SKPPWHJWFD_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YAWNVLJTJO_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TZEUFZULSM_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JHEDATNSTG_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IZOTVEXCTS_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_AZZDMRHTOL_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITKBKMVHVO_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ETMQZIBUJP_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YOASRWEXBB_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JQRZYJFXHO_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XWVGPALIEE_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PHXAOJJARO_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HOPFPVLORH_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ALVQNWCXCN_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IZOTVEXCTS_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NSEIEIKOBO_hospital_18_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XWVGPALIEE_hospital_18_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UGJDNUXDFH_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_AZZDMRHTOL_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CWAXXNDESV_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITKBKMVHVO_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IWGPYBBARP_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GVWZMFFNTJ_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YOASRWEXBB_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XXMNXPURMF_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JHEDATNSTG_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PKCAMHIHEK_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VSIPHGGRNB_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HTBNEVTDWH_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_DOATWXZNHC_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZSRIAOAGEL_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZMABDXMOMB_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_LMPCRBOSMQ_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CNYVYZJIUF_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HICWADUKYN_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GVWZMFFNTJ_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SKPPWHJWFD_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDYQZFVMPB_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YANFWWOIKT_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XWVGPALIEE_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_OBGEOFMSYT_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CYEGUMTKHA_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZSRIAOAGEL_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NSEIEIKOBO_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_AZZDMRHTOL_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CYEGUMTKHA_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XWVGPALIEE_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDYQZFVMPB_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UNOKSBPWLQ_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GBHNKADXHT_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZMABDXMOMB_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_MHIYVVYTSA_hospital_54_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NOSIZIEUBU_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QCFIKCSVST_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IHAOCDQWZO_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZORYFZEYYE_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NSEIEIKOBO_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GTXWPRXLHQ_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GVWZMFFNTJ_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ALVQNWCXCN_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_POJWQQHBHG_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NRYSKVDBCE_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YTZGCJNOZM_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NSEIEIKOBO_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JFNNXYYMOZ_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HACUSUQVAK_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZSRIAOAGEL_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YAWNVLJTJO_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ESJVTOEYGY_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_DJVEIZUFZB_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NRYSKVDBCE_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VSIPHGGRNB_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YTZGCJNOZM_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VCYAFOQEQN_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDGKZIOUOH_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CNYVYZJIUF_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ARWLQPFUHY_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XXMNXPURMF_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XWVGPALIEE_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YTZGCJNOZM_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YAWNVLJTJO_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NMWJLZBZER_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TZEUFZULSM_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_LMPCRBOSMQ_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDGKZIOUOH_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SKPPWHJWFD_hospital_54_AFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_OBGEOFMSYT_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_KKHMHHVMQR_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JFNNXYYMOZ_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ETMQZIBUJP_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CWAXXNDESV_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_LMPCRBOSMQ_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HOPFPVLORH_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZSRIAOAGEL_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_OBGEOFMSYT_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ESJVTOEYGY_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SQOFUFJXWK_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_DJVEIZUFZB_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CNYVYZJIUF_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HTBNEVTDWH_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZMABDXMOMB_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SKPPWHJWFD_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        }
+    ],
+    "val": [
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IHAOCDQWZO_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GBHNKADXHT_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GTXWPRXLHQ_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VCYAFOQEQN_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NSEIEIKOBO_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_POJWQQHBHG_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SGYERTEXGO_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_LMPCRBOSMQ_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QXFRIAVLCY_hospital_54_NFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZTOXMEIHOB_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NOSIZIEUBU_hospital_54_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_POJWQQHBHG_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IWGPYBBARP_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CYEGUMTKHA_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PHXAOJJARO_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ARWLQPFUHY_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_BEYVSZZZDY_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ARWLQPFUHY_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GBHNKADXHT_hospital_18_AFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITMNMLEHWW_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GBHNKADXHT_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UMMDXRVRZZ_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YANFWWOIKT_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_DJVEIZUFZB_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UNOKSBPWLQ_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JHEDATNSTG_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QCFIKCSVST_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QUHMVPNIKU_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_MHIYVVYTSA_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VSIPHGGRNB_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ICQJXLXFUW_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HICWADUKYN_hospital_54_AFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UGJDNUXDFH_hospital_54_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JFNNXYYMOZ_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HICWADUKYN_hospital_54_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UGJDNUXDFH_hospital_54_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_IZOTVEXCTS_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PEFWDQLPTH_hospital_54_NFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ICQJXLXFUW_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UMMDXRVRZZ_hospital_54_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_YOASRWEXBB_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UNOKSBPWLQ_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VCYAFOQEQN_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NRYSKVDBCE_hospital_18_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_CWAXXNDESV_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITMNMLEHWW_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_OBGEOFMSYT_hospital_54_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_GBHNKADXHT_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_HACUSUQVAK_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PSJSXBDWKK_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_VLXKTKVTJF_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SKPPWHJWFD_hospital_54_AFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_XXMNXPURMF_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QCFIKCSVST_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TLNHVEAPQM_hospital_54_AFF_image_6.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JQRZYJFXHO_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SGYERTEXGO_hospital_18_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_UGJDNUXDFH_hospital_54_AFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ZORYFZEYYE_hospital_54_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_SDEGXCSEVI_hospital_18_AFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_TZEUFZULSM_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_JDGKZIOUOH_hospital_18_AFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "AFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_PSJSXBDWKK_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_AZZDMRHTOL_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_ITMNMLEHWW_hospital_18_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QUHMVPNIKU_hospital_54_NFF_image_5.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NJBJGFVKBJ_hospital_18_NFF_image_1.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NRYSKVDBCE_hospital_18_NFF_image_4.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_QUHMVPNIKU_hospital_54_NFF_image_3.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        },
+        {
+            "image_path": "/shared1/8bit_down224/patient_NMWJLZBZER_hospital_18_NFF_image_2.png",
+            "hospital_id": "54,18",
+            "label": "NFF"
+        }
+    ]
+}

@@ -1,0 +1,682 @@
+# Hyper parameters
+num_epochs = 20
+batch_size = 8
+learning_rate = 0.0001
+optimizer = optim.Adam(model.parameters(), lr=learning_rate)
+
+VGG-19 Metrics:
+Test Loss: 0.6497190113405924
+Total Test Accuracy: 81.94207836456559
+Test Accuracy (NFF): 85.77235772357723
+Test Accuracy (AFF): 62.10526315789474
+AUC: 0.7393881044073598
+Confusion Matrix:
+[[422  70]
+ [ 36  59]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.86      0.89       492
+         AFF       0.46      0.62      0.53        95
+
+    accuracy                           0.82       587
+   macro avg       0.69      0.74      0.71       587
+weighted avg       0.85      0.82      0.83       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.5263960102724062
+Total Test Accuracy: 82.96422487223168
+Test Accuracy (NFF): 85.36585365853658
+Test Accuracy (AFF): 70.52631578947368
+AUC: 0.7794608472400513
+Confusion Matrix:
+[[420  72]
+ [ 28  67]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.85      0.89       492
+         AFF       0.48      0.71      0.57        95
+
+    accuracy                           0.83       587
+   macro avg       0.71      0.78      0.73       587
+weighted avg       0.86      0.83      0.84       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 1.6597019452098254
+Total Test Accuracy: 77.51277683134583
+Test Accuracy (NFF): 77.84552845528455
+Test Accuracy (AFF): 75.78947368421052
+AUC: 0.7681750106974754
+Confusion Matrix:
+[[383 109]
+ [ 23  72]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.78      0.85       492
+         AFF       0.40      0.76      0.52        95
+
+    accuracy                           0.78       587
+   macro avg       0.67      0.77      0.69       587
+weighted avg       0.86      0.78      0.80       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.3384819554819449
+Total Test Accuracy: 87.9045996592845
+Test Accuracy (NFF): 92.07317073170732
+Test Accuracy (AFF): 66.3157894736842
+AUC: 0.7919448010269576
+Confusion Matrix:
+[[453  39]
+ [ 32  63]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.92      0.93       492
+         AFF       0.62      0.66      0.64        95
+
+    accuracy                           0.88       587
+   macro avg       0.78      0.79      0.78       587
+weighted avg       0.88      0.88      0.88       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.46999450224275524
+Total Test Accuracy: 82.793867120954
+Test Accuracy (NFF): 87.39837398373983
+Test Accuracy (AFF): 58.94736842105263
+AUC: 0.7317287120239624
+Confusion Matrix:
+[[430  62]
+ [ 39  56]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.87      0.89       492
+         AFF       0.47      0.59      0.53        95
+
+    accuracy                           0.83       587
+   macro avg       0.70      0.73      0.71       587
+weighted avg       0.85      0.83      0.84       587
+
+----------------------------------------------------------------------------------
+VGG-19 Metrics:
+Test Loss: 0.8062270353674084
+Total Test Accuracy: 82.793867120954
+Test Accuracy (NFF): 86.99186991869918
+Test Accuracy (AFF): 61.05263157894737
+AUC: 0.7402225074882328
+Confusion Matrix:
+[[428  64]
+ [ 37  58]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.87      0.89       492
+         AFF       0.48      0.61      0.53        95
+
+    accuracy                           0.83       587
+   macro avg       0.70      0.74      0.71       587
+weighted avg       0.85      0.83      0.84       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.486462545153257
+Total Test Accuracy: 83.64565587734242
+Test Accuracy (NFF): 87.1951219512195
+Test Accuracy (AFF): 65.26315789473684
+AUC: 0.7622913992297817
+Confusion Matrix:
+[[429  63]
+ [ 33  62]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.87      0.90       492
+         AFF       0.50      0.65      0.56        95
+
+    accuracy                           0.84       587
+   macro avg       0.71      0.76      0.73       587
+weighted avg       0.86      0.84      0.85       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 0.44053069278094414
+Total Test Accuracy: 84.49744463373084
+Test Accuracy (NFF): 90.2439024390244
+Test Accuracy (AFF): 54.73684210526316
+AUC: 0.7249037227214377
+Confusion Matrix:
+[[444  48]
+ [ 43  52]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.91      0.90      0.91       492
+         AFF       0.52      0.55      0.53        95
+
+    accuracy                           0.84       587
+   macro avg       0.72      0.72      0.72       587
+weighted avg       0.85      0.84      0.85       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.7188296964442408
+Total Test Accuracy: 77.00170357751277
+Test Accuracy (NFF): 79.26829268292683
+Test Accuracy (AFF): 65.26315789473684
+AUC: 0.7226572528883184
+Confusion Matrix:
+[[390 102]
+ [ 33  62]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.79      0.85       492
+         AFF       0.38      0.65      0.48        95
+
+    accuracy                           0.77       587
+   macro avg       0.65      0.72      0.67       587
+weighted avg       0.83      0.77      0.79       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.6740995631427378
+Total Test Accuracy: 78.8756388415673
+Test Accuracy (NFF): 78.86178861788618
+Test Accuracy (AFF): 78.94736842105263
+AUC: 0.789045785194694
+Confusion Matrix:
+[[388 104]
+ [ 20  75]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.95      0.79      0.86       492
+         AFF       0.42      0.79      0.55        95
+
+    accuracy                           0.79       587
+   macro avg       0.68      0.79      0.70       587
+weighted avg       0.86      0.79      0.81       587
+
+--------------------------------------------------------------------------------------------
+
+VGG-19 Metrics:
+Test Loss: 0.48150018220012253
+Total Test Accuracy: 85.34923339011925
+Test Accuracy (NFF): 91.26016260162602
+Test Accuracy (AFF): 54.73684210526316
+AUC: 0.7299850235344458
+Confusion Matrix:
+[[449  43]
+ [ 43  52]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.91      0.91      0.91       492
+         AFF       0.55      0.55      0.55        95
+
+    accuracy                           0.85       587
+   macro avg       0.73      0.73      0.73       587
+weighted avg       0.85      0.85      0.85       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.8219490723835455
+Total Test Accuracy: 72.40204429301534
+Test Accuracy (NFF): 70.1219512195122
+Test Accuracy (AFF): 84.21052631578948
+AUC: 0.7716623876765083
+Confusion Matrix:
+[[345 147]
+ [ 15  80]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.96      0.70      0.81       492
+         AFF       0.35      0.84      0.50        95
+
+    accuracy                           0.72       587
+   macro avg       0.66      0.77      0.65       587
+weighted avg       0.86      0.72      0.76       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 0.4739289631110591
+Total Test Accuracy: 85.51959114139693
+Test Accuracy (NFF): 93.4959349593496
+Test Accuracy (AFF): 44.21052631578947
+AUC: 0.6885323063756954
+Confusion Matrix:
+[[460  32]
+ [ 53  42]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.90      0.93      0.92       492
+         AFF       0.57      0.44      0.50        95
+
+    accuracy                           0.86       587
+   macro avg       0.73      0.69      0.71       587
+weighted avg       0.84      0.86      0.85       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.6115060455694392
+Total Test Accuracy: 81.43100511073254
+Test Accuracy (NFF): 83.33333333333333
+Test Accuracy (AFF): 71.57894736842105
+AUC: 0.7745614035087719
+Confusion Matrix:
+[[410  82]
+ [ 27  68]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.83      0.88       492
+         AFF       0.45      0.72      0.56        95
+
+    accuracy                           0.81       587
+   macro avg       0.70      0.77      0.72       587
+weighted avg       0.86      0.81      0.83       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.559113253008675
+Total Test Accuracy: 81.60136286201022
+Test Accuracy (NFF): 84.7560975609756
+Test Accuracy (AFF): 65.26315789473684
+AUC: 0.7500962772785622
+Confusion Matrix:
+[[417  75]
+ [ 33  62]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.85      0.89       492
+         AFF       0.45      0.65      0.53        95
+
+    accuracy                           0.82       587
+   macro avg       0.69      0.75      0.71       587
+weighted avg       0.85      0.82      0.83       587
+
+--------------------------------------------------------------------------------------------
+
+VGG-19 Metrics:
+Test Loss: 0.7309916099986514
+Total Test Accuracy: 72.06132879045997
+Test Accuracy (NFF): 71.95121951219512
+Test Accuracy (AFF): 72.63157894736842
+AUC: 0.7229139922978178
+Confusion Matrix:
+[[354 138]
+ [ 26  69]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.72      0.81       492
+         AFF       0.33      0.73      0.46        95
+
+    accuracy                           0.72       587
+   macro avg       0.63      0.72      0.63       587
+weighted avg       0.83      0.72      0.75       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.64762176472593
+Total Test Accuracy: 74.44633730834752
+Test Accuracy (NFF): 75.0
+Test Accuracy (AFF): 71.57894736842105
+AUC: 0.7328947368421053
+Confusion Matrix:
+[[369 123]
+ [ 27  68]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.75      0.83       492
+         AFF       0.36      0.72      0.48        95
+
+    accuracy                           0.74       587
+   macro avg       0.64      0.73      0.65       587
+weighted avg       0.84      0.74      0.77       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 0.6425407844079608
+Total Test Accuracy: 88.07495741056218
+Test Accuracy (NFF): 94.3089430894309
+Test Accuracy (AFF): 55.78947368421053
+AUC: 0.7504920838682071
+Confusion Matrix:
+[[464  28]
+ [ 42  53]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.94      0.93       492
+         AFF       0.65      0.56      0.60        95
+
+    accuracy                           0.88       587
+   macro avg       0.79      0.75      0.77       587
+weighted avg       0.87      0.88      0.88       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.5343808066603299
+Total Test Accuracy: 80.7495741056218
+Test Accuracy (NFF): 82.3170731707317
+Test Accuracy (AFF): 72.63157894736842
+AUC: 0.7747432605905007
+Confusion Matrix:
+[[405  87]
+ [ 26  69]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.82      0.88       492
+         AFF       0.44      0.73      0.55        95
+
+    accuracy                           0.81       587
+   macro avg       0.69      0.77      0.71       587
+weighted avg       0.86      0.81      0.82       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.4041013120598084
+Total Test Accuracy: 86.20102214650767
+Test Accuracy (NFF): 89.83739837398375
+Test Accuracy (AFF): 67.36842105263158
+AUC: 0.7860290971330766
+Confusion Matrix:
+[[442  50]
+ [ 31  64]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.90      0.92       492
+         AFF       0.56      0.67      0.61        95
+
+    accuracy                           0.86       587
+   macro avg       0.75      0.79      0.76       587
+weighted avg       0.87      0.86      0.87       587
+
+
+--------------------------------------------------------------------------------------------
+
+VGG-19 Metrics:
+Test Loss: 0.6028055977453856
+Total Test Accuracy: 84.15672913117547
+Test Accuracy (NFF): 88.6178861788618
+Test Accuracy (AFF): 61.05263157894737
+AUC: 0.7483525887890459
+Confusion Matrix:
+[[436  56]
+ [ 37  58]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.89      0.90       492
+         AFF       0.51      0.61      0.56        95
+
+    accuracy                           0.84       587
+   macro avg       0.72      0.75      0.73       587
+weighted avg       0.85      0.84      0.85       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.6069292556997892
+Total Test Accuracy: 80.40885860306643
+Test Accuracy (NFF): 81.5040650406504
+Test Accuracy (AFF): 74.73684210526316
+AUC: 0.7812045357295679
+Confusion Matrix:
+[[401  91]
+ [ 24  71]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.82      0.87       492
+         AFF       0.44      0.75      0.55        95
+
+    accuracy                           0.80       587
+   macro avg       0.69      0.78      0.71       587
+weighted avg       0.86      0.80      0.82       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 0.5670135768281447
+Total Test Accuracy: 79.21635434412266
+Test Accuracy (NFF): 80.08130081300813
+Test Accuracy (AFF): 74.73684210526316
+AUC: 0.7740907145913565
+Confusion Matrix:
+[[394  98]
+ [ 24  71]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.80      0.87       492
+         AFF       0.42      0.75      0.54        95
+
+    accuracy                           0.79       587
+   macro avg       0.68      0.77      0.70       587
+weighted avg       0.86      0.79      0.81       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.4991914892468501
+Total Test Accuracy: 85.17887563884156
+Test Accuracy (NFF): 90.44715447154472
+Test Accuracy (AFF): 57.89473684210526
+AUC: 0.7417094565682498
+Confusion Matrix:
+[[445  47]
+ [ 40  55]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.90      0.91       492
+         AFF       0.54      0.58      0.56        95
+
+    accuracy                           0.85       587
+   macro avg       0.73      0.74      0.73       587
+weighted avg       0.86      0.85      0.85       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.47789606119732597
+Total Test Accuracy: 81.94207836456559
+Test Accuracy (NFF): 85.16260162601625
+Test Accuracy (AFF): 65.26315789473684
+AUC: 0.7521287976037655
+Confusion Matrix:
+[[419  73]
+ [ 33  62]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.93      0.85      0.89       492
+         AFF       0.46      0.65      0.54        95
+
+    accuracy                           0.82       587
+   macro avg       0.69      0.75      0.71       587
+weighted avg       0.85      0.82      0.83       587
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+VGG-19 Metrics:
+Test Loss: 0.83968475770608
+Total Test Accuracy: 72.91311754684838
+Test Accuracy (NFF): 72.15447154471545
+Test Accuracy (AFF): 76.84210526315789
+AUC: 0.7449828840393667
+Confusion Matrix:
+[[355 137]
+ [ 22  73]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.72      0.82       492
+         AFF       0.35      0.77      0.48        95
+
+    accuracy                           0.73       587
+   macro avg       0.64      0.74      0.65       587
+weighted avg       0.85      0.73      0.76       587
+
+
+
+ResNet-50 Metrics:
+Test Loss: 0.9806232637650257
+Total Test Accuracy: 68.82453151618398
+Test Accuracy (NFF): 66.869918699187
+Test Accuracy (AFF): 78.94736842105263
+AUC: 0.7290864356011981
+Confusion Matrix:
+[[329 163]
+ [ 20  75]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.67      0.78       492
+         AFF       0.32      0.79      0.45        95
+
+    accuracy                           0.69       587
+   macro avg       0.63      0.73      0.62       587
+weighted avg       0.84      0.69      0.73       587
+
+
+
+ResNet-101 Metrics:
+Test Loss: 0.49369865353848486
+Total Test Accuracy: 85.00851788756388
+Test Accuracy (NFF): 88.21138211382114
+Test Accuracy (AFF): 68.42105263157895
+AUC: 0.7831621737270004
+Confusion Matrix:
+[[434  58]
+ [ 30  65]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.94      0.88      0.91       492
+         AFF       0.53      0.68      0.60        95
+
+    accuracy                           0.85       587
+   macro avg       0.73      0.78      0.75       587
+weighted avg       0.87      0.85      0.86       587
+
+
+
+ResNet-152 Metrics:
+Test Loss: 0.5863821369570654
+Total Test Accuracy: 72.40204429301534
+Test Accuracy (NFF): 76.21951219512195
+Test Accuracy (AFF): 52.63157894736842
+AUC: 0.6442554557124518
+Confusion Matrix:
+[[375 117]
+ [ 45  50]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.89      0.76      0.82       492
+         AFF       0.30      0.53      0.38        95
+
+    accuracy                           0.72       587
+   macro avg       0.60      0.64      0.60       587
+weighted avg       0.80      0.72      0.75       587
+
+
+
+DenseNet-161 Metrics:
+Test Loss: 0.48382088380890925
+Total Test Accuracy: 81.26064735945485
+Test Accuracy (NFF): 84.95934959349593
+Test Accuracy (AFF): 62.10526315789474
+AUC: 0.7353230637569534
+Confusion Matrix:
+[[418  74]
+ [ 36  59]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         NFF       0.92      0.85      0.88       492
+         AFF       0.44      0.62      0.52        95
+
+    accuracy                           0.81       587
+   macro avg       0.68      0.74      0.70       587
+weighted avg       0.84      0.81      0.82       587
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+

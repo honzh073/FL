@@ -1,95 +1,193 @@
-# Adam
+# Hyper parameters
 
-VGG-19 Metrics:
-Test Loss: 1.019500126307075
-Test Accuracy: 69.84667802385009
-AUC: 0.7436777920410782
-Confusion Matrix:
-[[333 159]
- [ 18  77]]
-Classification Report:
-              precision    recall  f1-score   support
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 8           |
+| Learning Rate    | 0.001       |
+| Optimizer        | Adam        |
 
-         NFF       0.95      0.68      0.79       492
-         AFF       0.33      0.81      0.47        95
+# Random pick performance 1
 
-    accuracy                           0.70       587
-   macro avg       0.64      0.74      0.63       587
-weighted avg       0.85      0.70      0.74       587
+| Model      | Test Loss | Test Accuracy (ALL) | Test Accuracy (NFF) | Test Accuracy (AFF) | AUC     |
+|------------|-----------|---------------------|---------------------|---------------------|---------|
+| VGG-19     | 0.6497    | 81.94%              | 85.77%              | 62.11%              | 0.7394  |
+| ResNet-50  | 0.5264    | 82.96%              | 85.37%              | 70.53%              | 0.7795  |
+| ResNet-101 | 1.6597    | 77.51%              | 77.85%              | 75.79%              | 0.7682  |
+| ResNet-152 | 0.3385    | 87.90%              | 92.07%              | 66.32%              | 0.7919  |
+| DenseNet-161| 0.4700   | 82.79%              | 87.40%              | 58.95%              | 0.7317  |
 
+# Random pick performance 2
 
+| Model      | Test Loss | Test Accuracy (ALL) | Test Accuracy (NFF) | Test Accuracy (AFF) | AUC     |
+|------------|-----------|---------------------|---------------------|---------------------|---------|
+| VGG-19     | 0.8062    | 82.79%              | 86.99%              | 61.05%              | 0.7402  |
+| ResNet-50  | 0.4865    | 83.65%              | 87.20%              | 65.26%              | 0.7623  |
+| ResNet-101 | 0.4405    | 84.50%              | 90.24%              | 54.74%              | 0.7249  |
+| ResNet-152 | 0.7188    | 77.00%              | 79.27%              | 65.26%              | 0.7227  |
+| DenseNet-161| 0.6741   | 78.88%              | 78.86%              | 78.95%              | 0.7890  |
 
-ResNet-50 Metrics:
-Test Loss: 0.5888551397098077
-Test Accuracy: 79.21635434412266
-AUC: 0.7571031236628156
-Confusion Matrix:
-[[398  94]
- [ 28  67]]
-Classification Report:
-              precision    recall  f1-score   support
+# Random pick performance 3
+| Model      | Test Loss | Test Accuracy (ALL) | Test Accuracy (NFF) | Test Accuracy (AFF) | AUC     |
+|------------|-----------|---------------------|---------------------|---------------------|---------|
+| VGG-19     | 0.4815    | 85.35%              | 91.26%              | 54.74%              | 0.7300  |
+| ResNet-50  | 0.8220    | 72.40%              | 70.12%              | 84.21%              | 0.7717  |
+| ResNet-101 | 0.4739    | 85.52%              | 93.50%              | 44.21%              | 0.6885  |
+| ResNet-152 | 0.6115    | 81.43%              | 83.33%              | 71.58%              | 0.7746  |
+| DenseNet-161 | 0.5591  | 81.60%              | 84.76%              | 65.26%              | 0.7501  |
 
-         NFF       0.93      0.81      0.87       492
-         AFF       0.42      0.71      0.52        95
-
-    accuracy                           0.79       587
-   macro avg       0.68      0.76      0.70       587
-weighted avg       0.85      0.79      0.81       587
-
-
-
-ResNet-101 Metrics:
-Test Loss: 0.49975434202398805
-Test Accuracy: 81.09028960817717
-AUC: 0.7003316217372699
-Confusion Matrix:
-[[425  67]
- [ 44  51]]
-Classification Report:
-              precision    recall  f1-score   support
-
-         NFF       0.91      0.86      0.88       492
-         AFF       0.43      0.54      0.48        95
-
-    accuracy                           0.81       587
-   macro avg       0.67      0.70      0.68       587
-weighted avg       0.83      0.81      0.82       587
+# Random pick performance 4
+| Model      | Test Loss | Total Test Accuracy | Test Accuracy (NFF) | Test Accuracy (AFF) | AUC     |
+|------------|-----------|---------------------|---------------------|---------------------|---------|
+| VGG-19     | 0.7309    | 72.06%              | 71.95%              | 72.63%              | 0.7229  |
+| ResNet-50  | 0.6476    | 74.45%              | 75.00%              | 71.58%              | 0.7329  |
+| ResNet-101 | 0.6425    | 88.07%              | 94.31%              | 55.79%              | 0.7505  |
+| ResNet-152 | 0.5344    | 80.75%              | 82.32%              | 72.63%              | 0.7747  |
+| DenseNet-161| 0.4041   | 86.20%              | 89.84%              | 67.37%              | 0.7860  |
+# Random pick performance 5
+| Model      | Test Loss | Total Test Accuracy | Test Accuracy (NFF) | Test Accuracy (AFF) | AUC     |
+|------------|-----------|---------------------|---------------------|---------------------|---------|
+| VGG-19     | 0.6028    | 84.16%              | 88.62%              | 61.05%              | 0.7484  |
+| ResNet-50  | 0.6069    | 80.41%              | 81.50%              | 74.74%              | 0.7812  |
+| ResNet-101 | 0.5670    | 79.22%              | 80.08%              | 74.74%              | 0.7741  |
+| ResNet-152 | 0.4992    | 85.18%              | 90.45%              | 57.89%              | 0.7417  |
+| DenseNet-161| 0.4779   | 81.94%              | 85.16%              | 65.26%              | 0.7521  |
 
 
 
-ResNet-152 Metrics:
-Test Loss: 0.9719309971944706
-Test Accuracy: 62.35093696763203
-AUC: 0.7244437312794181
-Confusion Matrix:
-[[283 209]
- [ 12  83]]
-Classification Report:
-              precision    recall  f1-score   support
-
-         NFF       0.96      0.58      0.72       492
-         AFF       0.28      0.87      0.43        95
-
-    accuracy                           0.62       587
-   macro avg       0.62      0.72      0.57       587
-weighted avg       0.85      0.62      0.67       587
+# Random pick average
+| Model      | Test Loss (Mean ± SD) | Total Test Accuracy (Mean ± SD) | Test Accuracy (NFF) (Mean ± SD) | Test Accuracy (AFF) (Mean ± SD) | AUC (Mean ± SD) |
+|------------|----------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------|
+| VGG-19     | 0.6143 ± 0.1202       | 79.52% ± 8.19%                    | 82.68% ± 8.06%                    | 61.66% ± 4.31%                    | 0.7382 ± 0.0279  |
+| ResNet-50  | 0.5533 ± 0.1077       | 79.53% ± 5.92%                    | 81.45% ± 6.23%                    | 69.95% ± 7.47%                    | 0.7590 ± 0.0318  |
+| ResNet-101 | 0.6663 ± 0.4962       | 78.46% ± 5.38%                    | 79.06% ± 5.50%                    | 66.39% ± 12.56%                   | 0.7380 ± 0.0432  |
+| ResNet-152 | 0.5280 ± 0.1144       | 82.05% ± 2.59%                    | 85.54% ± 4.29%                    | 66.85% ± 6.47%                    | 0.7658 ± 0.0334  |
+| DenseNet-161| 0.4779 ± 0.1357      | 82.40% ± 3.38%                    | 85.41% ± 4.85%                    | 66.16% ± 6.06%                    | 0.7533 ± 0.0315  |
 
 
+---
+---
+---
+---
+---
+# Hyper parameters
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 16          |
+| Learning Rate    | 0.0001      |
+| Optimizer        | Adam        |
+# Random pick performance
 
-DenseNet-161 Metrics:
-Test Loss: 0.4682438952495923
-Test Accuracy: 83.98637137989779
-AUC: 0.7473363286264443
-Confusion Matrix:
-[[435  57]
- [ 37  58]]
-Classification Report:
-              precision    recall  f1-score   support
+---
+---
+---
+---
+---
+# Hyper parameters
 
-         NFF       0.92      0.88      0.90       492
-         AFF       0.50      0.61      0.55        95
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 8           |
+| Learning Rate    | 0.00001     |
+| Optimizer        | Adam        |
 
-    accuracy                           0.84       587
-   macro avg       0.71      0.75      0.73       587
-weighted avg       0.85      0.84      0.85       587
 
+# Random pick performance
+| Model         | Test Loss | Test Accuracy (ALL) | Test Accuracy (AFF) | AUC     |
+|---------------|-----------|---------------------|---------------------|---------|
+| VGG-19        | 0.847     | 74.28%              | 70.53%              | 0.728   |
+| ResNet-50     | 0.485     | 78.19%              | 45.26%              | 0.649   |
+| ResNet-101    | 0.402     | 83.13%              | 42.11%              | 0.670   |
+| ResNet-152    | 0.506     | 77.17%              | 53.68%              | 0.677   |
+| DenseNet-161  | 0.584     | 78.88%              | 64.21%              | 0.730   |
+---
+---
+---
+---
+---
+# Hyper parameters
+
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 16          |
+| Learning Rate    | 0.00001     |
+| Optimizer        | Adam        |
+
+
+# Random pick performance
+# Random pick performance
+---
+---
+---
+---
+---
+# Hyper parameters
+
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 16          |
+| Learning Rate    | 0.0001      |
+| Optimizer        | RMSprop     |
+
+
+# Random pick performance
+| Model          | Test Loss | Test Accuracy | AUC   |
+|-----------------|-----------|---------------|-------|
+| VGG-19          | 0.5756    | 77.68%        | 0.659 |
+| ResNet-50       | 0.6619    | 77.34%        | 0.784 |
+| ResNet-101      | 0.6210    | 81.09%        | 0.739 |
+| ResNet-152      | 0.4866    | 83.65%        | 0.750 |
+| DenseNet-161    | 0.4821    | 83.99%        | 0.760 |
+
+---
+---
+---
+---
+---
+# Hyper parameters
+
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 8           |
+| Learning Rate    | 0.00001     |
+| Optimizer        | RMSprop     |
+
+
+# Random pick performance
+| Model         | Test Loss | Test Accuracy (ALL) | Test Accuracy (AFF) | AUC     |
+|---------------|-----------|---------------------|---------------------|---------|
+| VGG-19        | 0.825     | 77.51%              | 60.00%              | 0.704   |
+| ResNet-50     | 0.429     | 81.26%              | 49.47%              | 0.684   |
+| ResNet-101    | 0.467     | 81.94%              | 42.11%              | 0.659   |
+| ResNet-152    | 0.553     | 74.79%              | 64.21%              | 0.705   |
+| DenseNet-161  | 0.450     | 82.28%              | 58.95%              | 0.729   |
+
+
+---
+---
+---
+---
+---
+# Hyper parameters
+
+| Hyperparameters  | Values      |
+|------------------|-------------|
+| Number of Epochs | 20          |
+| Batch Size       | 16          |
+| Learning Rate    | 0.00001     |
+| Optimizer        | RMSprop     |
+
+
+# Random pick performance
+| Model         | Test Loss | Test Accuracy (ALL) | Test Accuracy (AFF) | AUC     |
+|---------------|-----------|---------------------|---------------------|---------|
+| VGG-19        | 0.825     | 77.51%              | 60.00%              | 0.704   |
+| ResNet-50     | 0.429     | 81.26%              | 49.47%              | 0.684   |
+| ResNet-101    | 0.467     | 81.94%              | 42.11%              | 0.659   |
+| ResNet-152    | 0.553     | 74.79%              | 64.21%              | 0.705   |
+| DenseNet-161  | 0.450     | 82.28%              | 58.95%              | 0.729   |

@@ -1,0 +1,4 @@
+HospitalID,PatientID,ImageID,ImagePath,Label
+32,MWKBHILMSJ,1.png,/local/data1/honzh073/data/8bit_raw/patient_MWKBHILMSJ_hospital_32_NFF_image_1.png,NFF
+32,MWKBHILMSJ,2.png,/local/data1/honzh073/data/8bit_raw/patient_MWKBHILMSJ_hospital_32_NFF_image_2.png,NFF
+32,MWKBHILMSJ,6.png,/local/data1/honzh073/data/8bit_raw/patient_MWKBHILMSJ_hospital_32_NFF_image_6.png,NFF

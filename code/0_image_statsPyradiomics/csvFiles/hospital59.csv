@@ -1,0 +1,10 @@
+HospitalID,PatientID,ImageID,ImagePath,Label
+59,HMGTDTVTIP,1.png,/local/data1/honzh073/data/8bit_raw/patient_HMGTDTVTIP_hospital_59_NFF_image_1.png,NFF
+59,HMGTDTVTIP,2.png,/local/data1/honzh073/data/8bit_raw/patient_HMGTDTVTIP_hospital_59_NFF_image_2.png,NFF
+59,HMGTDTVTIP,3.png,/local/data1/honzh073/data/8bit_raw/patient_HMGTDTVTIP_hospital_59_NFF_image_3.png,NFF
+59,HMGTDTVTIP,4.png,/local/data1/honzh073/data/8bit_raw/patient_HMGTDTVTIP_hospital_59_NFF_image_4.png,NFF
+59,HMGTDTVTIP,5.png,/local/data1/honzh073/data/8bit_raw/patient_HMGTDTVTIP_hospital_59_NFF_image_5.png,NFF
+59,JZHSNFRBEB,1.png,/local/data1/honzh073/data/8bit_raw/patient_JZHSNFRBEB_hospital_59_NFF_image_1.png,NFF
+59,JZHSNFRBEB,2.png,/local/data1/honzh073/data/8bit_raw/patient_JZHSNFRBEB_hospital_59_NFF_image_2.png,NFF
+59,JZHSNFRBEB,3.png,/local/data1/honzh073/data/8bit_raw/patient_JZHSNFRBEB_hospital_59_NFF_image_3.png,NFF
+59,JZHSNFRBEB,4.png,/local/data1/honzh073/data/8bit_raw/patient_JZHSNFRBEB_hospital_59_NFF_image_4.png,NFF

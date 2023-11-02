@@ -1,0 +1,10 @@
+HospitalID,PatientID,ImageID,ImagePath,Label
+20,LFXTWHRRDK,1.png,/local/data1/honzh073/data/8bit_raw/patient_LFXTWHRRDK_hospital_20_NFF_image_1.png,NFF
+20,LFXTWHRRDK,2.png,/local/data1/honzh073/data/8bit_raw/patient_LFXTWHRRDK_hospital_20_NFF_image_2.png,NFF
+20,LFXTWHRRDK,3.png,/local/data1/honzh073/data/8bit_raw/patient_LFXTWHRRDK_hospital_20_NFF_image_3.png,NFF
+20,LFXTWHRRDK,4.png,/local/data1/honzh073/data/8bit_raw/patient_LFXTWHRRDK_hospital_20_NFF_image_4.png,NFF
+20,LQNVCMPEPB,1.png,/local/data1/honzh073/data/8bit_raw/patient_LQNVCMPEPB_hospital_20_NFF_image_1.png,NFF
+20,LQNVCMPEPB,2.png,/local/data1/honzh073/data/8bit_raw/patient_LQNVCMPEPB_hospital_20_NFF_image_2.png,NFF
+20,NPFRIRZSPE,1.png,/local/data1/honzh073/data/8bit_raw/patient_NPFRIRZSPE_hospital_20_AFF_image_1.png,AFF
+20,RXGXXHBTCS,1.png,/local/data1/honzh073/data/8bit_raw/patient_RXGXXHBTCS_hospital_20_NFF_image_1.png,NFF
+20,RXGXXHBTCS,2.png,/local/data1/honzh073/data/8bit_raw/patient_RXGXXHBTCS_hospital_20_NFF_image_2.png,NFF

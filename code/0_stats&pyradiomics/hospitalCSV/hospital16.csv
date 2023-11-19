@@ -1,5 +1,0 @@
-HospitalID,PatientID,ImageID,ImagePath,Label
-16,KMGAZSDDSJ,1.png,/local/data1/honzh073/data/8bit_raw/patient_KMGAZSDDSJ_hospital_16_NFF_image_1.png,NFF
-16,KMGAZSDDSJ,2.png,/local/data1/honzh073/data/8bit_raw/patient_KMGAZSDDSJ_hospital_16_NFF_image_2.png,NFF
-16,KMGAZSDDSJ,3.png,/local/data1/honzh073/data/8bit_raw/patient_KMGAZSDDSJ_hospital_16_NFF_image_3.png,NFF
-16,KMGAZSDDSJ,4.png,/local/data1/honzh073/data/8bit_raw/patient_KMGAZSDDSJ_hospital_16_NFF_image_4.png,NFF

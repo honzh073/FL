@@ -1,0 +1,4 @@
+HospitalID,PatientID,ImageID,ImagePath,Label
+15,QYEMVMTERX,1.png,/local/data1/honzh073/data/8bit_raw/patient_QYEMVMTERX_hospital_15_NFF_image_1.png,NFF
+15,QYEMVMTERX,2.png,/local/data1/honzh073/data/8bit_raw/patient_QYEMVMTERX_hospital_15_NFF_image_2.png,NFF
+15,QYEMVMTERX,3.png,/local/data1/honzh073/data/8bit_raw/patient_QYEMVMTERX_hospital_15_NFF_image_3.png,NFF

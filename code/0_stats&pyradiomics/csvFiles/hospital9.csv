@@ -1,0 +1,10 @@
+HospitalID,PatientID,ImageID,ImagePath,Label
+9,CZQEKWOOLE,1.png,/local/data1/honzh073/data/8bit_raw/patient_CZQEKWOOLE_hospital_9_NFF_image_1.png,NFF
+9,CZQEKWOOLE,2.png,/local/data1/honzh073/data/8bit_raw/patient_CZQEKWOOLE_hospital_9_NFF_image_2.png,NFF
+9,CZQEKWOOLE,3.png,/local/data1/honzh073/data/8bit_raw/patient_CZQEKWOOLE_hospital_9_NFF_image_3.png,NFF
+9,HETSELBRUW,1.png,/local/data1/honzh073/data/8bit_raw/patient_HETSELBRUW_hospital_9_NFF_image_1.png,NFF
+9,HETSELBRUW,2.png,/local/data1/honzh073/data/8bit_raw/patient_HETSELBRUW_hospital_9_NFF_image_2.png,NFF
+9,HETSELBRUW,3.png,/local/data1/honzh073/data/8bit_raw/patient_HETSELBRUW_hospital_9_NFF_image_3.png,NFF
+9,JVVRYYCQMB,1.png,/local/data1/honzh073/data/8bit_raw/patient_JVVRYYCQMB_hospital_9_NFF_image_1.png,NFF
+9,JVVRYYCQMB,2.png,/local/data1/honzh073/data/8bit_raw/patient_JVVRYYCQMB_hospital_9_NFF_image_2.png,NFF
+9,JVVRYYCQMB,3.png,/local/data1/honzh073/data/8bit_raw/patient_JVVRYYCQMB_hospital_9_NFF_image_3.png,NFF
